@@ -1,0 +1,2 @@
+Za pokrenuti aplikaciju potrebno je pokrenuti "Baza_Banke_Krvu_GUI". Prozori se tijekom prijave mogu pokrenuti,
+no funkcije aplikacija ne rade. Za rad funkcija potrebno je otvoriti bilo koji drugi file unutar visual studio code-a.
